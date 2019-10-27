@@ -1,0 +1,11 @@
+1) Proyecto creado en eclipse
+
+
+2) Pasos para versionamiento
+git initial
+git config user.email "git@github.com:Garlo91/Maven.git"
+git add -A
+git status
+git commit -m "Initial Commit"
+git log
+git push -u origin master
